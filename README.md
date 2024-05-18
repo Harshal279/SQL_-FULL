@@ -2,9 +2,9 @@ Welcome to FULL SQL! This repository houses comprehensive SQL scripts and resour
 
 <h3>SQL Beginner<h3>
 <ul>
-  <li>Select Statement </li>
-  <li>From Statement</li>
+  <li>Select and From Statement</li>
   <li>Where Statement </li>
+  <li>Group by and order by Statement </li>
 </ul>
 
 
