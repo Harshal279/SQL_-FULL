@@ -7,4 +7,10 @@ Welcome to FULL SQL! This repository houses comprehensive SQL scripts and resour
   <li>Group by and order by Statement </li>
 </ul>
 
+<h3>SQL Intermediate<h3>
+<ul>
+  <li>Joining Tables</li>
+  <li>Union and Union Operator</li>
+</ul>
+
 
