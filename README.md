@@ -11,6 +11,8 @@ Welcome to FULL SQL! This repository houses comprehensive SQL scripts and resour
 <ul>
   <li>Joining Tables</li>
   <li>Union and Union Operator</li>
+  <li>Case Statement</li>
+  <li>Clause Function</li>
 </ul>
 
 
